@@ -29,5 +29,6 @@ const {add , sub} = require('./utils');
 console.log("test: ", c, b);                  // Display imported variables
 
 console.log("add: ", add(a, b));              // Demonstrate add function
+
 console.log("sub: ", sub(a, b));              // Demonstrate subtract function
 
